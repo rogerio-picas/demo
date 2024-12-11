@@ -1,0 +1,5 @@
+2feira; 18.11.2024; Prato Peixe - Sopa de Legumes; Pescada Cozida com Batata;180; Prato Carne - Estufado de Vitela;330; Prato Vegetariano - Legumes Salteados; 120; Prato Dieta - Pescada Cozida com Legumes; 175;
+3feira; 19.11.2024; Prato Peixe - Sopa de Ervilhas; Bacalhau Cozido com batatas;280; Prato Carne - Bifinhos com Cogumelos;190; Prato Vegetariano - Legumes Salteados; 120; Prato Dieta - Pescada Cozida com Legumes; 175;
+4feira; 19.11.2024; Prato Peixe - Sopa de Ervilhas; Bacalhau Cozido com batatas;280; Prato Carne - Bifinhos com Cogumelos;190; Prato Vegetariano - Legumes Salteados; 120; Prato Dieta - Pescada Cozida com Legumes; 175;
+5feira; 19.11.2024; Prato Peixe - Sopa de Ervilhas; Bacalhau Cozido com batatas;280; Prato Carne - Bifinhos com Cogumelos;190; Prato Vegetariano - Legumes Salteados; 120; Prato Dieta - Pescada Cozida com Legumes; 175;
+6feira; 19.11.2024; Prato Peixe - Sopa de Ervilhas; Bacalhau Cozido com batatas;280; Prato Carne - Bifinhos com Cogumelos;190; Prato Vegetariano - Legumes Salteados; 120; Prato Dieta - Pescada Cozida com Legumes; 175;
